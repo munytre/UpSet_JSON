@@ -1,0 +1,13 @@
+{
+	"file": "~/Desktop/Plots/UpSet_circ_noCLT.csv",
+	"name": "circ_37exCLT",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "circ_id" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 37 }
+	]
+}
